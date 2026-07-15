@@ -1,36 +1,36 @@
 <h1 align="center">Hi 👋 I'm Matheo Fleuret</h1>
 
 <h3 align="center">
-Cybersecurity Engineer • SOC • DFIR • Detection Engineering
+Cybersecurity Engineer • SOC • DFIR • Detection Engineering • CTF player 
 </h3>
 
 <p align="center">
-Building tools to help defenders investigate, detect and respond faster.
+Building tools and play with technology, detect and respond faster.
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-I am a cybersecurity engineer passionate about Blue Team operations, DFIR, Detection Engineering and Threat Intelligence.
+I am a cybersecurity engineer passionate about all aspect of cybersecurity .
 
 My main interests include:
 
-- 🔍 Digital Forensics & Incident Response
-- 🛡️ SOC Operations
-- 📊 Threat Intelligence
-- ⚡ Detection Engineering
-- 🧩 Malware Analysis
-- 🤖 Security Automation
-- 🐍 Python Development
+- Digital Forensics & Incident Response
+- SOC Operations
+- Threat Intelligence
+- Detection Engineering
+- Malware Analysis
+- Security Automation
+- Python Development
 
 I enjoy creating tools that automate investigations and simplify analysts' daily work.
 
 ---
 
-# 🚀 Current Projects
+# Current Projects
 
-## 🔒 ZYRA Toolbox *(Private)*
+## ZYRA Toolbox *(Private)*
 
 An enterprise-oriented DFIR toolkit designed for SOC analysts and incident responders.
 
@@ -69,6 +69,7 @@ Research project focused on:
 - Detection workflows
 
 ---
+# Next Projects
 
 ## 🔒 Clutch *(Private)*
 
@@ -139,25 +140,3 @@ Most of my projects are currently private while under active development.
 
 They are available for demonstration during technical interviews.
 
----
-
-# 📫 Contact
-
-LinkedIn:
-> *(Add your LinkedIn URL here)*
-
-GitHub:
-> https://github.com/vlodder
-
-Location:
-> France 🇫🇷
-
----
-
-<p align="center">
-
-Always learning.
-Always building.
-Always improving.
-
-</p>
